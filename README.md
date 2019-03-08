@@ -3,3 +3,4 @@
 2.再学习贝塞尔曲线 弄下移动画操作      
 3.学习动画    http://www.cnblogs.com/kenshincui/p/3959951.html 继续看CoreImage    
 4.回顾寒假所学 学习CoreImage    
+5.烟花效果找到
